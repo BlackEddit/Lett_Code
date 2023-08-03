@@ -63,3 +63,9 @@ class Solution(object):
         
         # Devolver el inicio de la lista de resultados. Dado que 'dummy' es un nodo inicial sin significado, devolvemos 'dummy.next'.
         return dummy.next
+    
+    
+        """
+        We should ask to develpment tools to use node list of another algoritms 
+        
+        """
