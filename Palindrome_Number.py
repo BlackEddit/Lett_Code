@@ -48,3 +48,6 @@ class Solution(object):
         # For example when the input is 12321, at the end of the while loop we get x = 12, revertedNumber = 123,
         # since the middle digit doesn't matter in palidrome (it will always equal to itself), we can simply get rid of it.
         return x == revertedNumber or x == revertedNumber // 10
+    
+    
+    # Add to solve another way
