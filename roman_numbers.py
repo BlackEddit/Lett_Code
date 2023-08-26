@@ -79,3 +79,20 @@ class Solution(object):
     
     
 #EXPLANATION
+
+# A continuación se resumen las ventajas y sugerencias para mejorar la eficacia:
+
+# Ventajas:
+# 1. El enfoque utiliza un diccionario para mapear símbolos romanos a sus valores correspondientes,
+#    lo que facilita la conversión de números romanos a enteros.
+# 2. El uso del enfoque de iteración en orden inverso permite manejar casos de resta correctamente,
+#    siguiendo las reglas de los números romanos.
+
+# Sugerencias para Mejorar la Eficacia:
+# 1. Este enfoque tiene un tiempo de ejecución lineal O(n), donde n es la longitud de la cadena romana.
+#    Esto es eficiente y adecuado para las restricciones del problema.
+# 2. Asegúrate de que el diccionario 'roman_to_int' esté definido correctamente para incluir todos los símbolos necesarios.
+# 3. Considera optimizar los símbolos romanos a valores mapeados para mejorar la eficacia si es necesario.
+# 4. Realiza pruebas exhaustivas para garantizar que el código maneje correctamente todos los casos posibles.
+
+# ¡Felicitaciones por abordar con éxito el desafío de la conversión de números romanos a enteros!
