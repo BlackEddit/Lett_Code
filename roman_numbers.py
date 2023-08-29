@@ -75,8 +75,8 @@ class Solution(object):
             prev_value = current_value
             
         return total
-    
-    
+     
+    #s32324as32
     
 #EXPLANATION
 
