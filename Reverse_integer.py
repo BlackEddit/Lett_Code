@@ -70,3 +70,4 @@ class Solution(object):
 # 9. If it's within the range, we return 'reversed_num'; otherwise, we return 0.
 
 # This solution ensures that the reversed integer is calculated correctly and handles boundary cases.
+#how its so fopooo
